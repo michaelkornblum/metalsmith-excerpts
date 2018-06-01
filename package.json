@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
-    "cheerio": "^0.15.0",
+    "cheerio": "^1.0.0-rc.2",
     "debug": "^3.1.0",
     "lodash": "^4.17.10"
   },
